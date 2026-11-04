@@ -126,9 +126,6 @@ Anderer Ablageort: `"logs_dir"` in `data/settings.json` (z. B. `D:\\FPV\\logs` o
   (sonst Cache 30 min). Auf `/karte` gibt es die Ebene „dipul-Geozonen“ (offizieller WMS, ab Zoom 9, standardmäßig aus;
   `/karte?dipul=1`). Quelle: dipul, CC-BY-ND 4.0. **Nur Hinweis – verbindlich ist die dipul-Karte. Kein Rechtsrat.**
 
-## Version
-**1.8-public** – öffentliche, bereinigte Fassung (Stand v1.7 ohne Phase 5 „Vernetzung“). Persönliche Daten
-(`data/`, `logs/`, `spots/`) gehören nicht ins Repository und stehen in `.gitignore`.
 
 Weitere Pläne: `ROADMAP.md`.
 
