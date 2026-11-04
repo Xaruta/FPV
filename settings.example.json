@@ -1,0 +1,12 @@
+{
+  "spots": [
+    {"name": "Beispiel-Spot Hannover", "lat": 52.3759, "lon": 9.732, "region": "Hannover, Niedersachsen, Deutschland"}
+  ],
+  "active": "Beispiel-Spot Hannover",
+  "radar_box_deg": 0.5,
+  "radar_auto": true,
+  "radar_interval": 60,
+  "logs_dir": "",
+  "verlauf_minuten": 15,
+  "spots_dir": ""
+}

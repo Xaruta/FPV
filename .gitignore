@@ -1,0 +1,21 @@
+# Python / Umgebung
+.venv/
+__pycache__/
+*.pyc
+.env
+*.env
+*.api_key
+
+# Persönliche Laufzeitdaten – gehören nie ins Repository
+data/
+logs/
+spots/
+dist/
+*.log
+*.pid
+*.lock
+*_cache.json
+
+# macOS / gebaute Starter
+.DS_Store
+*.app/
